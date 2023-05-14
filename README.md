@@ -2,10 +2,10 @@
 
 
 
-### I'm a Developer, Student, and geek!
+### I'm a Developer, Student, and Geek!
 - 🏠 Living in Cairo, Egypt
 - 📨 Reachable at kareemkohel@gmail.com
-- 💻 Currently working as a Tech-Lead for [RobEn](https://roben.club)'s [Software & AI](https://roben.club/teams/#ai_team) team !
+- 💻 Currently working as a Tech-Lead for [RobEn](https://roben.club)'s [Software & AI](https://roben.club/teams/#ai_team) team and a researcher for the AUC!
 - 📝 Check out my [online Library](https://drive.google.com/drive/folders/1Cx0w0peYKWUr_3B_wMyeUi2RF0wzpLDK?usp=sharing) for interesting books
 - 👥 Currently welcoming collaborations
 - 🔥 Fun fact: I'm also a professional DJ 🎛 !
